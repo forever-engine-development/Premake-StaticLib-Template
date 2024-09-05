@@ -10,5 +10,5 @@ workspace "Premake StaticLib Template"
 	}
 
 include "configurations.lua"
---- include "Premake StaticLib Template"
+include "PremakeStaticLibTemplate"
 --- include "Sandbox"
